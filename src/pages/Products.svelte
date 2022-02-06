@@ -1,1 +1,5 @@
-<h1>Products Page</h1>
+<script>
+  import Products from "../components/Products/Products.svelte";
+</script>
+
+<Products />
